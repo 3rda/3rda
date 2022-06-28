@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @3rda
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning on Data Science, Data Analyst stuff.
+- https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge Checkout my Linkeding
+- Checkout my Portfolio : https://github.com/3rda/Portfolio
 
 
 <!---
